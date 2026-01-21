@@ -4,10 +4,6 @@ Senior Solutions Engineer at Signant Health with experience designing and implem
 
 I enjoy bridging the gap between business and technical needs by leveraging my background in data automation and computer science. 
 
-<!--
-**gaograce1/gaograce1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 
 ## 🛠️ Tech Stack:
 - **Languages:** Python, C++, Java, SQL, JavaScript
